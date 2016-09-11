@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportsHacks</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+    <string name="create_account">create</string>
+    <string name="user_id"></string>
+</resources>
